@@ -27,8 +27,8 @@
 
  |활동 기간|활동 내용|활동 기관|
 |:---|:---|:---|
-|2021.10 ~ <br>2022.02|더컴퍼스, 마이로직트리 Front-End Developer|[더컴퍼스](https://www.the-compass.kr/) [마이로직트리](https://www.mylogictree.com/)|
-|2021.07 ~ <br>2024.03|주식회사 콘티고 Software Engineer|[주식회사 콘티고](https://contigo.im/)|
+|2022.10 ~ <br>2023.02|더컴퍼스, 마이로직트리 Front-End Developer|[더컴퍼스](https://www.the-compass.kr/) [마이로직트리](https://www.mylogictree.com/)|
+|2021.11 ~ <br>2024.03|주식회사 콘티고 Software Engineer|[주식회사 콘티고](https://contigo.im/)|
 
 <h3>🏆 Awards</h3>
 
