@@ -3,10 +3,40 @@
 ### Hi Welcome, i'm Sehong An 👋
 
 #### Front-end Engineer
+<h3>📚 Tech Stack</h3>
+ <p>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <br />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <br />
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">   
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
+  <br />
+  <img src="https://img.shields.io/badge/vercel-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  
+  
+ </p>
 
-🛠️ Stacks
+<h3>💻 Experiences</h3>
 
-💪🏼 Tools 
+ |활동 기간|활동 내용|활동 기관|
+|:---|:---|:---|
+|2021.10 ~ <br>2022.02|더컴퍼스, 마이로직트리 Front-End Developer|[더컴퍼스](https://www.the-compass.kr/) [마이로직트리](https://www.mylogictree.com/)|
+|2021.07 ~ <br>2024.03|주식회사 콘티고 Software Engineer|[주식회사 콘티고](https://contigo.im/)|
+
+<h3>🏆 Awards</h3>
+
+ |수상일|수상 내용|발행 기관|
+|:---|:---|:---|
+|2024.05.31|국민대학교 소프트웨어융합대학 다학제간캡스톤디자인 최종발표회 장려상|국민대학교|
+
+<h3>🪪 Cerificate</h3>
 
 🐱 About Me
 
