@@ -44,7 +44,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roel)](https://solved.ac/roel/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roel4990)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roel4990)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
