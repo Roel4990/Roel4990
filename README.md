@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">   
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
   <br />
-    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
   <img src="https://img.shields.io/badge/vercel-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   
   
@@ -29,6 +29,7 @@
 |:---|:---|:---|
 |2022.10 ~ <br>2023.02|더컴퍼스, 마이로직트리 Front-End Developer|[더컴퍼스](https://www.the-compass.kr/) [마이로직트리](https://www.mylogictree.com/)|
 |2021.11 ~ <br>2024.03|주식회사 콘티고 Software Engineer|[주식회사 콘티고](https://contigo.im/)|
+|2024.03 ~ <br>2024.07|ASPAC2024|[ASPAC2024](https://aspac2024.org/) [ASPAC2024 Instagram](https://www.instagram.com/p/C9J3qsSPsd-/)|
 
 <h3>🏆 Awards</h3>
 
