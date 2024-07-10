@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-### Hi Welcome, i'm Sehong An 👋
+### Hi Welcome, I'm Sehong An 👋
 
 #### Front-end Engineer
 <h3>📚 Tech Stack</h3>
@@ -37,11 +37,11 @@
 |:---|:---|:---|
 |2024.05.31|국민대학교 소프트웨어융합대학 다학제간캡스톤디자인 최종발표회 장려상|국민대학교|
 
-<h3>🪪 Cerificate</h3>
+<!--<h3>🪪 Cerificate</h3>-->
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ash49901@gmail.com)](ash49901@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ash49901@gmail.com)](mailto:ash49901@gmail.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roel)](https://solved.ac/roel/)
 
