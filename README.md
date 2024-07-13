@@ -25,7 +25,6 @@
    <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/vercel-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   
-  
  </p>
 
 <h3>💻 Experiences</h3>
@@ -41,8 +40,6 @@
  |수상일|수상 내용|발행 기관|
 |:---|:---|:---|
 |2024.05.31|국민대학교 소프트웨어융합대학 다학제간캡스톤디자인 최종발표회 장려상|국민대학교|
-
-<!--<h3>🪪 Cerificate</h3>-->
 
 🐱 About Me
 
