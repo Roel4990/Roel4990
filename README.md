@@ -22,7 +22,13 @@
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <br />
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
-  <img src="https://img.shields.io/badge/vercel-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/vercel-%23F05033.svg?style=for-the-badge&logo=vercel&logoColor=white">
+    <br />
+    <img src="https://img.shields.io/badge/android-%34A853.svg?style=for-the-badge&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/androidstudio-%3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white">
+    <br />
+  <img src="https://img.shields.io/badge/jetpackcompose-%4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+  
   
  </p>
 
