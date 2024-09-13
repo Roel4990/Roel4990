@@ -36,9 +36,8 @@
 
  |활동 기간|활동 내용|활동 기관|
 |:---|:---|:---|
-|2024.03 ~ <br>2024.07|ASPAC2024 Front-End Developer|[ASPAC2024](https://aspac2024.org/) [ASPAC2024 Instagram](https://www.instagram.com/p/C9J3qsSPsd-/)|
-|2021.11 ~ <br>2024.03|주식회사 콘티고 Software Engineer|[주식회사 콘티고](https://contigo.im/)|
-|2022.10 ~ <br>2023.02|더컴퍼스, 마이로직트리 Front-End Developer|[더컴퍼스](https://www.the-compass.kr/) [마이로직트리](https://www.mylogictree.com/)|
+|2024.03 ~ <br>2024.07|ASPAC2024 Front-End WEB Developer|[ASPAC2024](https://aspac2024.org/) [ASPAC2024 Instagram](https://www.instagram.com/p/C9J3qsSPsd-/)|
+|2022.10 ~ <br>2023.02|더컴퍼스, 마이로직트리 Front-End WEB Developer|[더컴퍼스](https://www.the-compass.kr/) [마이로직트리](https://www.mylogictree.com/)|
 
 
 <h3>🏆 Awards</h3>
@@ -64,7 +63,7 @@
 **Roel4990/Roel4990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+|2021.11 ~ <br>2024.03|주식회사 콘티고 Software Engineer|[주식회사 콘티고](https://contigo.im/)|
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
