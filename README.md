@@ -24,13 +24,10 @@
 |2024.08.06|SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : SW 부문 우수상|과학기술정보통신부|
 |2024.06.07|국민대학교 소프트웨어융합대학 다학제간캡스톤디자인 최종발표회 장려상|국민대학교|
 
-
 🐱 About Me
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roel)](https://solved.ac/roel/)
 
 ![Roel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roel4990&show_icons=true&theme=radical)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roel4990)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00CB92&height=150&section=footer" />
