@@ -33,9 +33,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roel)](https://solved.ac/roel/)
 
-![Roel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roel4990&show_icons=true&theme=radical)
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00CB92&height=150&section=footer" />
