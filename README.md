@@ -1,8 +1,10 @@
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00CB92&height=150&section=header" />
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Roel4990"/>
-</a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/Roel4990"/>
+  </a>
+
 
 ### Hi Welcome, I'm Sehong An 👋
 
@@ -35,3 +37,4 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00CB92&height=150&section=footer" />
+</div>
