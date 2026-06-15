@@ -13,7 +13,7 @@
 
 💼 3년간 Full Stack 개발 경험
 
-🚀 AI · Data · Backend · Frontend에 관심을 가지고 있습니다.
+🚀 AI · Data · Backend · Frontend 분야에 관심을 가지고 다양한 프로젝트를 진행하고 있습니다.
 
 🌱 새로운 기술을 빠르게 학습하고 적용하는 것을 좋아합니다.
 
